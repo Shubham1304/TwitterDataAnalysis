@@ -1,15 +1,15 @@
 # TwitterDataAnalysis
 The repository for the project - <b>"Optimum time prediction to tweet in a day"</b>
-
-<h3>System Requirements -</h3> <br><br>
+<br>
+<h3>System Requirements -</h3> <br>
 A working python3 environment with following libraries -<br>
     pandas<br>
     datetime<br>
     sklearn<br>
     matplotlib<br>
-    tensorflow keras<br><br><br>
+    tensorflow keras<br><br>
 
-<h3>Instructions to run -</h3><br><br> 
+<h3>Instructions to run -</h3><br> 
 Clone the repository. <br>
 Open terminal.<br>
 Navigate to the downloaded folder by giving command - cd path<br>
